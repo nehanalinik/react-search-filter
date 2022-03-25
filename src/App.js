@@ -6,6 +6,7 @@ function App() {
   const [search, setSearch] = useState("");
   return (
     <div className="App">
+      <h1>Search Filter</h1>
       <form>
         <input
           type="text"
